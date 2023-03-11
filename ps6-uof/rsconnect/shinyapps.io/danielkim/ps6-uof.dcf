@@ -1,0 +1,13 @@
+name: ps6-uof
+title:
+username:
+account: danielkim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8479143
+bundleId: 6944142
+url: https://danielkim.shinyapps.io/ps6-uof/
+when: 1678502354.76101
+lastSyncTime: 1678502354.76102
+asMultiple: FALSE
+asStatic: FALSE
